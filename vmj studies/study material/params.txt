@@ -1,0 +1,8 @@
+this is used to get the specific id from the link\
+
+useParams -- this is the hook to do that 
+
+with the help of hook we can take 
+
+example:
+ const {id} = useParams()

@@ -1,0 +1,9 @@
+{ Condition && <do whatever>}
+
+
+if the condition is true then the second arguement will work 
+
+for example:
+ we can create a loading text while some data fetching from API 
+if the data fetched sucessfully then we can change the condtion true -> false by useState
+

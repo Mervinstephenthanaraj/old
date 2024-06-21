@@ -1,0 +1,9 @@
+
+
+Link from scroll :
+	if we get link from react scroll this link helps us to move to the exact id in this same same
+	
+link from react-router-dom:
+
+	if we use this link then it will help us to move to the other component link a other page 
+

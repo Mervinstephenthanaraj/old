@@ -1,0 +1,4 @@
+jsx is javascript xml 
+
+used by react with html like template syntex
+jsx makes easy to understand

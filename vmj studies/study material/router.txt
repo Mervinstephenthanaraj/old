@@ -1,0 +1,34 @@
+
+
+React Router : 03/09/2022  ( video link:https://www.youtube.com/watch?v=M6DEpmBqItA) 
+ 
+
+Description :
+
+ react router used to redirect to the selected page in single page 
+ this is used to create the single page application
+ 
+ need to install :  $ npm install react-router-dom--save
+ need to import from router , BrowserRouter, Route , Link , NavLink. Switch
+ 
+ Router: 
+	check the entered url and the page url 
+	
+ browser Router :
+	like a history is helps to move forward and backward
+	
+Link :
+ same like anchor tag in html without reload
+ 
+ 
+ NavLink:
+  same like active link in html  used to highlight the active nav 
+  
+ Switch :
+	to execute the correct one  
+ 
+	
+ example :facebook , instagram
+
+ 
+ video link:https://www.youtube.com/watch?v=M6DEpmBqItA

@@ -1,0 +1,1 @@
+single page without redirecting to other component just scroll function example portfolio in local

@@ -1,0 +1,3 @@
+useState : used to create initial value and helps to change the value to render again
+
+useEffect : this will get trigger while rendering we can give condtion to render this hook
